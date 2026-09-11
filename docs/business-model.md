@@ -67,7 +67,7 @@
   invented; where the primary official gazette source
   (sluzbenilist.me / Pravno informacioni sistem Crne Gore) returned
   HTTP 403 on direct fetch this session, the gap is disclosed explicitly
-  in `src/statute/facts.cljc` rather than papered over
+  in `src/statute/facts.cljk` rather than papered over
 
 ## Honest disclosure: no FDI-screening mechanism independently confirmed
 

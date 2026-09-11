@@ -1,10 +1,10 @@
-;; data/datascript-tx.edn — DataScript tx-data derived from src/statute/facts.cljc
+;; data/datascript-tx.edn — DataScript tx-data derived from src/statute/facts.cljk
 ;; `statute.facts/catalog` (ADR-2607141700 Wave 0). Same shape as sibling files.
 ;; Provenance: the Labour Law entry is corroborated via gov.me's own document
 ;; repository (official primary source); the Companies Law entry via
 ;; paragraf.me (private publisher) only, because sluzbenilist.me (the official
 ;; gazette/Pravno informacioni sistem Crne Gore) returned HTTP 403 on direct
-;; fetch this session — see src/statute/facts.cljc docstring for the full
+;; fetch this session — see src/statute/facts.cljk docstring for the full
 ;; disclosure.
 
 [#:statute{:id "mne.sl-list-rcg-2020-65-zakon-o-privrednim-drustvima"
