@@ -8,7 +8,7 @@ non-EU-member).
 čl. 1, CRPS registration of a foreign company's Montenegrin branch).
 
 ```
-clojure -M:dev:test
+kbb -M:dev:test
 ```
 
 Independent public-sector market-entry & procurement-compliance service
