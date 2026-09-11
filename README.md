@@ -39,7 +39,7 @@ Montenegro.
   This is disclosed as an honest gap (absence of evidence), not as an
   affirmative "Montenegro has no such regime" finding the way Serbia's
   README could cite RAS's own national-treatment language — see
-  `src/marketentry/facts.cljc` for the full disclosure.
+  `src/marketentry/facts.cljk` for the full disclosure.
 - Currency: Montenegro uses the **euro** as its legal tender **without
   being a member of the eurozone or the EU** — a genuinely unusual
   monetary arrangement independently verified via the Central Bank of
@@ -51,7 +51,7 @@ Montenegro.
   record) — it is disclosed here and in `docs/business-model.md` as
   context for operators.
 
-See `src/marketentry/facts.cljc` and `src/statute/facts.cljc` for the
+See `src/marketentry/facts.cljk` and `src/statute/facts.cljk` for the
 full citation trail and explicit provenance disclosures (the official
 gazette registry, sluzbenilist.me, returned HTTP 403 on direct fetch
 this session — statute citations are corroborated via gov.me's own
@@ -74,7 +74,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Montenegro:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from

@@ -16,7 +16,7 @@ stranog društva" within the same registration regime as domestic
 privredna društva/preduzetnici, and CRPS (reached via the Wayback
 Machine after the live site failed at the TLS layer) is confirmed as
 the registering authority, administered under Uprava prihoda i carina
-(not a standalone "Poreska uprava"). See `src/marketentry/governor.cljc`
+(not a standalone "Poreska uprava"). See `src/marketentry/governor.cljk`
 docstring for the full reasoning and citation trail.
 
 Also disclosed and NOT smuggled into the compliance catalog: Montenegro
